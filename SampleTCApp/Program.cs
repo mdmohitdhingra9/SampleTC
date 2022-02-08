@@ -10,7 +10,7 @@ namespace SampleTCApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is sample app.");
+            Console.WriteLine("This is sample app solution.");
             Console.Read();
         }
     }
