@@ -10,7 +10,7 @@ namespace SampleTCApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is sample teamcity app 123 mohit dhingra.");
+            Console.WriteLine("This is sample teamcity app.");
 
             Console.Read();
         }
