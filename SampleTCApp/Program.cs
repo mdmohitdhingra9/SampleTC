@@ -10,7 +10,7 @@ namespace SampleTCApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi! Welcome.");
+            Console.WriteLine("Hi! Welcome");
 
             Console.Read();
         }
